@@ -80,7 +80,7 @@ function HomeSection() {
                 <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
                     <div className="space-y-4">
                         <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Protecting What Matters Most</h1>
-                        <p className="text-muted-foreground md:text-xl">Comprehensive insurance solutions tailored to your unique needs. We're committed to providing peace of mind through reliable coverage and exceptional service.</p>
+                        <p className="text-muted-foreground md:text-xl">Comprehensive insurance solutions tailored to your unique needs. We&apos;&apos;re committed to providing peace of mind through reliable coverage and exceptional service.</p>
                         <div className="flex flex-col sm:flex-row gap-3">
                             <Button asChild size="lg">
                                 <Link href="#contact">Quote</Link>
@@ -133,7 +133,7 @@ function AboutSection() {
             <div className="container px-4 md:px-6">
                 <div className="flex flex-col items-center text-center mb-12">
                     <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-4">About Us</h2>
-                    <p className="text-muted-foreground md:text-xl max-w-3xl">With over 20 years of experience, we've been helping individuals and businesses protect what matters most.</p>
+                    <p className="text-muted-foreground md:text-xl max-w-3xl">With over 20 years of experience, we&apos;ve been helping individuals and businesses protect what matters most.</p>
                 </div>
 
                 <div className="grid gap-10 lg:grid-cols-2 items-center">
